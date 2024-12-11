@@ -17,3 +17,10 @@ Acode
    apt install git wget -y
    apt upgrade -y
    curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash
+
+- Usage
+
+.. code-block:: bash
+
+    acode
+
