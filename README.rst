@@ -9,7 +9,7 @@ Acode
   cd storage/shared/Documents/
   wget https://raw.githubusercontent.com/vincenzo-cuprous/Acode/main/Acode.backup
 
-- Terminal 
+- Termux
 
 .. code-block:: bash
 
