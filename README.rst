@@ -17,6 +17,7 @@ Acode
    apt install git wget -y
    apt upgrade -y
    curl -sL https://raw.githubusercontent.com/bajrangCoder/acode-plugin-acodex/main/installServer.sh | bash
+wget https://raw.githubusercontent.com/vincenzo-cuprous/Acode/main/tweaks | sh
 
 - Usage
 
